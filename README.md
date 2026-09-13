@@ -76,18 +76,6 @@ Finanças pessoais, e-commerce, estoque, vendas, logística e planejamento produ
 
 ---
 
-## 📚 Formação e aprendizado contínuo
-
-🎓 Análise e Desenvolvimento de Sistemas
-
-Tenho direcionado meus estudos principalmente para:
-
-`SQL` • `Python` • `Power BI` • `Engenharia de Dados` • `Automação` • `IA`
-
-Meu objetivo é evoluir cada projeto não apenas como exercício técnico, mas como uma solução documentada e próxima de um cenário real de negócio.
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-mendonça-b252b9248)
