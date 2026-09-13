@@ -1,40 +1,97 @@
-### Olá, eu sou Guilherme! 👋
+# Olá, eu sou Guilherme Mendonça 👋
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+### 📊 Dados • Business Intelligence • Automação • Inteligência Artificial
 
-### Linguagens 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/>
+Sou profissional com foco em **Análise de Dados e Business Intelligence**, utilizando tecnologia para transformar dados e processos em informações úteis para tomada de decisão.
 
-## Redes Sociais
-<a href="www.linkedin.com/in/guilherme-mendonça-b252b9248">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="width: 50px; height: auto;">
-</a>
+Atualmente também atuo com **Planejamento e Controle de Produção (PCP)**, trabalhando com análise de necessidades, materiais, estoque, processos e suporte às áreas de Compras e Engenharia.
 
-<a href="SEU_LINK_DO_GITHUB">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub" style="width: 50px; height: auto;">
-</a>
+Minha trajetória combina conhecimentos de **negócio, dados e tecnologia**, com foco crescente em Engenharia de Dados, automação e aplicação prática de Inteligência Artificial.
 
-<a href="SEU_LINK_DO_GMAIL">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="width: 50px; height: auto;">
-</a>
+---
 
+## 🎯 Foco profissional
 
-### Contato
-E-mail: guimendoncamb.01@gmail.com
+- 📊 Análise de Dados e Business Intelligence
+- 📈 Power BI e construção de indicadores
+- 🗄️ SQL e modelagem de dados
+- 🐍 Python aplicado a dados e automação
+- ⚙️ ETL e Engenharia de Dados
+- 🏭 Análise de processos e PCP
+- 🤖 Inteligência Artificial aplicada a negócios
+- 🔄 Automação de processos
 
+---
 
+## 🛠️ Tecnologias
 
-<!--
-**1GM1910/1GM1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Dados & BI
 
-Here are some ideas to get you started:
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Desenvolvimento & Automação
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Conhecimentos complementares
+
+- DAX
+- Power Query
+- Modelagem dimensional
+- ETL
+- APIs
+- Google Sheets
+- Apps Script
+- Git / GitHub
+- Docker
+- Linux / WSL
+- Inteligência Artificial aplicada
+- Automação de processos
+
+---
+
+## 🚀 Projetos
+
+Estou estruturando meu portfólio com projetos voltados para problemas reais de dados e negócios.
+
+Entre os principais temas trabalhados estão:
+
+**📊 Business Intelligence**  
+Dashboards, indicadores, modelagem dimensional, DAX e análise de dados.
+
+**⚙️ Engenharia de Dados**  
+ETL com Python, SQL, validação de dados, testes e pipelines.
+
+**🤖 Inteligência Artificial & Automação**  
+Uso de modelos locais e em nuvem, agentes especializados, roteamento de modelos e automação.
+
+**🏢 Dados aplicados a negócios**  
+Finanças pessoais, e-commerce, estoque, vendas, logística e planejamento produtivo.
+
+---
+
+## 📚 Formação e aprendizado contínuo
+
+🎓 Análise e Desenvolvimento de Sistemas
+
+Tenho direcionado meus estudos principalmente para:
+
+`SQL` • `Python` • `Power BI` • `Engenharia de Dados` • `Automação` • `IA`
+
+Meu objetivo é evoluir cada projeto não apenas como exercício técnico, mas como uma solução documentada e próxima de um cenário real de negócio.
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-mendonça-b252b9248)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1GM1910)
+
+📧 **E-mail:** guimendoncamb.01@gmail.com
