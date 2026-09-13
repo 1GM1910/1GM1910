@@ -1,6 +1,6 @@
 # Olá, eu sou Guilherme Mendonça 👋
 
-### 📊 Dados • Business Intelligence • Automação • Inteligência Artificial
+📊 Análise de Dados • Business Intelligence • Engenharia de Dados • Automação
 
 Sou profissional com foco em **Análise de Dados e Business Intelligence**, utilizando tecnologia para transformar dados e processos em informações úteis para tomada de decisão.
 
